@@ -1,8 +1,8 @@
 <img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
-<h1 align="center">Hi 👋, I'm Pratibha Singh</h1>
-<h3 align="center">A passionate frontend developer .</h3>
+<h1 align="center">Heyy 👋, I'm Pratibha Singh</h1>
+<h3 align="center">A passionate MERN Stack Developer </h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="center" alt="coding" width="600" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhpratibha98&label=Profile%20views&color=0e75b6&style=flat" alt="singhpratibha98" /> </p>
 
