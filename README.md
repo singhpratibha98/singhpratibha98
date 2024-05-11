@@ -2,7 +2,7 @@
 <h1 align="center">Heyy 👋, I'm Pratibha Singh</h1>
 <h3 align="center">A passionate MERN Stack Developer </h3>
 
-<img align="center" alt="coding" width="600" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhpratibha98&label=Profile%20views&color=0e75b6&style=flat" alt="singhpratibha98" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML CSS Javascript React js Nodejs Mongodb**
 
-- ⚡ Fun fact **Code without comments is like a joke without a punchline: nobody gets it.😂👩‍💻**
+- ⚡ Fun fact 🐼 **Code without comments is like a joke without a punchline: nobody gets it.😂👩‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
