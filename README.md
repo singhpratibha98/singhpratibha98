@@ -1,7 +1,8 @@
 
 <img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
+
 <h1 align="center">
-  <img src="http://readme-typing-svg.herokuapp.com/?
+  <img src="https://readme-typing-svg.herokuapp.com/?
     font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+ 👋;+I'm+Pratibha+Singh!"/>
 </h1>
 <!-- <h1 align="center">Heyy 👋, I'm Pratibha Singh</h1> -->
