@@ -18,9 +18,7 @@
 - ⚡ Fun fact 🐼 **Code without comments is like a joke without a punchline: nobody gets it.😂👩‍💻**
 
   <br/>
-  <br/>
-  <br/>
-  <br/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
