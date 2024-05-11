@@ -9,8 +9,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhpratibha98&label=Profile%20views&color=0e75b6&style=flat" alt="singhpratibha98" /> </p>
-
 - 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **HTML CSS Javascript React js Nodejs Mongodb**
