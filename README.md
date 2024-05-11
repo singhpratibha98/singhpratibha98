@@ -2,7 +2,7 @@
 <h1 align="center">Heyy 👋, I'm Pratibha Singh</h1>
 <h3 align="center">A Passionate MERN Stack Developer </h3>
 
-<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding" width="500" src="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif](https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhpratibha98&label=Profile%20views&color=0e75b6&style=flat" alt="singhpratibha98" /> </p>
 
