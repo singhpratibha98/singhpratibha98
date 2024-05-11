@@ -1,11 +1,8 @@
 
 <img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-    font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+ 👋;+I'm+Pratibha+Singh!"/>
-</h1>
-<!-- <h1 align="center">Heyy 👋, I'm Pratibha Singh</h1> -->
+
+<h1 align="center">Heyy 👋, I'm Pratibha Singh</h1>
 <h3 align="center">A Passionate MERN Stack Developer </h3>
 
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
